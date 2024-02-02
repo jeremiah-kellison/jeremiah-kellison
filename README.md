@@ -20,7 +20,7 @@ I'm interested in programming and web developing
 # Stats
 
 <p align="center">
-  <img alt="An image of @venny-dev's Holopin badges, which is a link to view their full Holopin profile" src="https://holopin.me/venny-dev" />
+  <img alt="An image of @venny-dev's Holopin badges, which is a link to view their full Holopin profile" src="https://holopin.me/vennydev" />
 </p>
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
