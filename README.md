@@ -23,11 +23,11 @@ I'm interested in programming and web developing
 </p>
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=venny-dev&column=8&margin-w=10&no-frame=true" alt="LucasHT22"/></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=jeremiah-kellison&column=8&margin-w=10&no-frame=true" alt="Jeremiah Kellison"/></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venny-dev&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jeremiah-kellison&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 </p>
   
 <p align="center">
