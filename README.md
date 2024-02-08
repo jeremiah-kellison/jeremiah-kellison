@@ -11,8 +11,7 @@ I'm interested in programming and web developing
 
 
 ## Motivation
-1. I'm completely insane
-2. I'm a programmer and developer
+1. I'm a programmer and developer
 
 ## Languages
 - English
