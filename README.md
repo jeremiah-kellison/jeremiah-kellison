@@ -30,10 +30,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=jeremiah-kellison&column=8&margin-w=10&no-frame=true" alt="Jeremiah Kellison"/></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeremiah-kellison&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-</p>
-  
-<p align="center">
-  <img src="https://github.com/LucasHT22/LucasHT22/blob/output/github-contribution-grid-snake.svg">
-</p>
